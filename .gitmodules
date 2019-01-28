@@ -1,0 +1,54 @@
+[submodule "REK"]
+	path = REK
+	url = https://github.com/jcodeing/REK
+[submodule "droidReverse"]
+	path = droidReverse
+	url = https://github.com/Juude/droidReverse
+[submodule "jeb"]
+	path = jeb
+	url = https://github.com/totopamimi/jeb
+[submodule "Android-reverse-tool"]
+	path = Android-reverse-tool
+	url = https://github.com/nanshihui/Android-reverse-tool
+[submodule "misc-code"]
+	path = misc-code
+	url = https://github.com/cryptax/misc-code
+[submodule "decompile"]
+	path = decompile
+	url = https://github.com/aiyhome/decompile
+[submodule "JEB_KeyGen"]
+	path = JEB_KeyGen
+	url = https://github.com/ghluzhiyuan/JEB_KeyGen
+[submodule "AndFix"]
+	path = AndFix
+	url = https://github.com/aiyhome/AndFix
+[submodule "drozer"]
+	path = drozer
+	url = https://github.com/mwrlabs/drozer/
+[submodule "simplify"]
+	path = simplify
+	url = https://github.com/CalebFenton/simplify
+[submodule "GDA-android-reversing-Tool"]
+	path = GDA-android-reversing-Tool
+	url = https://github.com/charles2gan/GDA-android-reversing-Tool
+[submodule "gcmreverse"]
+	path = gcmreverse
+	url = https://github.com/nborrmann/gcmreverse
+[submodule "ClassNameDeobfuscator"]
+	path = ClassNameDeobfuscator
+	url = https://github.com/HamiltonianCycle/ClassNameDeobfuscator
+[submodule "frida-android-hooks"]
+	path = frida-android-hooks
+	url = https://github.com/antojoseph/frida-android-hooks
+[submodule "python_adb_tool"]
+	path = python_adb_tool
+	url = https://github.com/Skiftestqa/python_adb_tool
+[submodule "Jeb"]
+	path = Jeb
+	url = https://github.com/dreamcxy/Jeb
+[submodule "Adhrit"]
+	path = Adhrit
+	url = https://github.com/abhi-r3v0/Adhrit
+[submodule "ApkSmaliJebTools"]
+	path = ApkSmaliJebTools
+	url = https://github.com/isaacselement/ApkSmaliJebTools
