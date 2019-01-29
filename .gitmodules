@@ -52,3 +52,12 @@
 [submodule "ApkSmaliJebTools"]
 	path = ApkSmaliJebTools
 	url = https://github.com/isaacselement/ApkSmaliJebTools
+[submodule "APKiD"]
+	path = APKiD
+	url = https://github.com/rednaga/APKiD
+[submodule "dex-oracle"]
+	path = dex-oracle
+	url = https://github.com/CalebFenton/dex-oracle
+[submodule "apkfile"]
+	path = apkfile
+	url = https://github.com/CalebFenton/apkfile
