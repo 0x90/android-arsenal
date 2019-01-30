@@ -61,3 +61,18 @@
 [submodule "apkfile"]
 	path = apkfile
 	url = https://github.com/CalebFenton/apkfile
+[submodule "PlaystoreDownloader"]
+	path = PlaystoreDownloader
+	url = https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
+[submodule "gplaydl"]
+	path = gplaydl
+	url = https://github.com/rehmatworks/gplaydl
+[submodule "google-play-downloader"]
+	path = google-play-downloader
+	url = https://github.com/bluemutedwisdom/google-play-downloader
+[submodule "googleplay-api"]
+	path = googleplay-api
+	url = https://github.com/NoMore201/googleplay-api
+[submodule "apkx"]
+	path = apkx
+	url = https://github.com/b-mueller/apkx
