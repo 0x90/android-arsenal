@@ -76,3 +76,30 @@
 [submodule "apkx"]
 	path = apkx
 	url = https://github.com/b-mueller/apkx
+[submodule "AndRoversing"]
+	path = AndRoversing
+	url = https://github.com/nikita2424/AndRoversing
+[submodule "nathan"]
+	path = nathan
+	url = https://github.com/mseclab/nathan
+[submodule "Marvin-dynamic-Analyzer"]
+	path = Marvin-dynamic-Analyzer
+	url = https://github.com/programa-stic/Marvin-dynamic-Analyzer
+[submodule "NinjaDroid"]
+	path = NinjaDroid
+	url = https://github.com/rovellipaolo/NinjaDroid
+[submodule "android-scripts"]
+	path = android-scripts
+	url = https://github.com/strazzere/android-scripts
+[submodule "androguard"]
+	path = androguard
+	url = https://github.com/androguard/androguard
+[submodule "ReverseAPK"]
+	path = ReverseAPK
+	url = https://github.com/1N3/ReverseAPK
+[submodule "Apktool"]
+	path = Apktool
+	url = https://github.com/iBotPeaches/Apktool
+[submodule "FridaAndroidTracer"]
+	path = FridaAndroidTracer
+	url = https://github.com/iGio90/FridaAndroidTracer
