@@ -103,3 +103,198 @@
 [submodule "FridaAndroidTracer"]
 	path = FridaAndroidTracer
 	url = https://github.com/iGio90/FridaAndroidTracer
+[submodule "Frida-Android-Scripts"]
+	path = Frida-Android-Scripts
+	url = https://github.com/thecjw/Frida-Android-Scripts
+[submodule "Frida_Android_Hook"]
+	path = Frida_Android_Hook
+	url = https://github.com/sepyeight/Frida_Android_Hook
+[submodule "frida-android-examples"]
+	path = frida-android-examples
+	url = https://github.com/11x256/frida-android-examples
+[submodule "analyzecrypt.py"]
+	path = analyzecrypt.py
+	url = https://github.com/ylikx/analyzecrypt.py
+[submodule "Frida-Android-Hooks"]
+	path = Frida-Android-Hooks
+	url = https://github.com/sixnative/Frida-Android-Hooks
+[submodule "frida-android-vul-detect"]
+	path = frida-android-vul-detect
+	url = https://github.com/Eacials/frida-android-vul-detect
+[submodule "AndroidNativeEmu"]
+	path = AndroidNativeEmu
+	url = https://github.com/AeonLucid/AndroidNativeEmu
+[submodule "PyADB"]
+	path = PyADB
+	url = https://github.com/theriley106/PyADB
+[submodule "haem"]
+	path = haem
+	url = https://github.com/appetizerio/haem
+[submodule "android_emulator_helper"]
+	path = android_emulator_helper
+	url = https://github.com/oleg79/android_emulator_helper
+[submodule "android-emulator-docker"]
+	path = android-emulator-docker
+	url = https://github.com/upday/android-emulator-docker
+[submodule "pyavd"]
+	path = pyavd
+	url = https://github.com/SaneBow/pyavd
+[submodule "ARES"]
+	path = ARES
+	url = https://github.com/DarioI/ARES
+[submodule "DroXES"]
+	path = DroXES
+	url = https://github.com/abhi-r3v0/DroXES
+[submodule "Frida-Module"]
+	path = Frida-Module
+	url = https://github.com/wrlu/Frida-Module
+[submodule "alfred-android-emulator"]
+	path = alfred-android-emulator
+	url = https://github.com/nassendelft/alfred-android-emulator
+[submodule "gnirehtet"]
+	path = gnirehtet
+	url = https://github.com/Genymobile/gnirehtet
+[submodule "mobile-re"]
+	path = mobile-re
+	url = https://github.com/QKaiser/mobile-re
+[submodule "ares2"]
+	path = ares2
+	url = https://github.com/DarioI/ares2
+[submodule "andreth"]
+	path = andreth
+	url = https://github.com/0x64746b/andreth
+[submodule "lobotomy"]
+	path = lobotomy
+	url = https://github.com/AndroidSecurityTools/lobotomy
+[submodule "MARA_Framework"]
+	path = MARA_Framework
+	url = https://github.com/xtiankisutsa/MARA_Framework
+[submodule "SimpleRT"]
+	path = SimpleRT
+	url = https://github.com/vvviperrr/SimpleRT
+[submodule "engine"]
+	path = engine
+	url = https://github.com/droidefense/engine
+[submodule "androidre"]
+	path = androidre
+	url = https://github.com/cryptax/androidre
+[submodule "virtual-pki-card"]
+	path = virtual-pki-card
+	url = https://github.com/nelenkov/virtual-pki-card
+[submodule "android-lkms"]
+	path = android-lkms
+	url = https://github.com/strazzere/android-lkms
+[submodule "Xenotix-APK-Reverser"]
+	path = Xenotix-APK-Reverser
+	url = https://github.com/ajinabraham/Xenotix-APK-Reverser
+[submodule "android-sectools"]
+	path = android-sectools
+	url = https://github.com/vskram21/android-sectools
+[submodule "python_rev_eng"]
+	path = python_rev_eng
+	url = https://github.com/Brainbuggged/python_rev_eng
+[submodule "droidcarve"]
+	path = droidcarve
+	url = https://github.com/DarioI/droidcarve
+[submodule "SafeDroid-v2.0"]
+	path = SafeDroid-v2.0
+	url = https://github.com/Dubniak/SafeDroid-v2.0
+[submodule "apkstudio"]
+	path = apkstudio
+	url = https://github.com/vaibhavpandeyvpz/apkstudio
+[submodule "jebscripts"]
+	path = jebscripts
+	url = https://github.com/enovella/jebscripts
+[submodule "AppTroller"]
+	path = AppTroller
+	url = https://github.com/jtesta/AppTroller
+[submodule "Auditing-Pentesting-Android-Apps"]
+	path = Auditing-Pentesting-Android-Apps
+	url = https://github.com/chmodxx/Auditing-Pentesting-Android-Apps
+[submodule "android-unpacker"]
+	path = android-unpacker
+	url = https://github.com/strazzere/android-unpacker
+[submodule "Androl4b"]
+	path = Androl4b
+	url = https://github.com/sh4hin/Androl4b
+[submodule "AndroidToolBox"]
+	path = AndroidToolBox
+	url = https://github.com/BackTrackCRoot/AndroidToolBox
+[submodule "house"]
+	path = house
+	url = https://github.com/nccgroup/house
+[submodule "jadx"]
+	path = jadx
+	url = https://github.com/skylot/jadx
+[submodule "Recaf"]
+	path = Recaf
+	url = https://github.com/Col-E/Recaf
+[submodule "pbtk"]
+	path = pbtk
+	url = https://github.com/marin-m/pbtk
+[submodule "fernflower"]
+	path = fernflower
+	url = https://github.com/fesh0r/fernflower
+[submodule "smalisca"]
+	path = smalisca
+	url = https://github.com/dorneanu/smalisca
+[submodule "android-reversing-challenges"]
+	path = android-reversing-challenges
+	url = https://github.com/kiyadesu/android-reversing-challenges
+[submodule "android-decompiler"]
+	path = android-decompiler
+	url = https://github.com/nextco/android-decompiler
+[submodule "APKStat"]
+	path = APKStat
+	url = https://github.com/hexabin/APKStat
+[submodule "dexterous"]
+	path = dexterous
+	url = https://github.com/Project-ARTist/dexterous
+[submodule "DynamicLoadClass"]
+	path = DynamicLoadClass
+	url = https://github.com/stven0king/DynamicLoadClass
+[submodule "Dex65536"]
+	path = Dex65536
+	url = https://github.com/mmin18/Dex65536
+[submodule "vdexExtractor"]
+	path = vdexExtractor
+	url = https://github.com/anestisb/vdexExtractor
+[submodule "intellij-java2smali"]
+	path = intellij-java2smali
+	url = https://github.com/ollide/intellij-java2smali
+[submodule "redexer"]
+	path = redexer
+	url = https://github.com/plum-umd/redexer
+[submodule "dex-test-parser"]
+	path = dex-test-parser
+	url = https://github.com/linkedin/dex-test-parser
+[submodule "SimpleSmali"]
+	path = SimpleSmali
+	url = https://github.com/dodola/SimpleSmali
+[submodule "ClassLoader"]
+	path = ClassLoader
+	url = https://github.com/Catherine22/ClassLoader
+[submodule "androidDump"]
+	path = androidDump
+	url = https://github.com/CyberSaxosTiGER/androidDump
+[submodule "dexsim"]
+	path = dexsim
+	url = https://github.com/mikusjelly/dexsim
+[submodule "Android-Crack-Tool"]
+	path = Android-Crack-Tool
+	url = https://github.com/Jermic/Android-Crack-Tool
+[submodule "android-classyshark"]
+	path = android-classyshark
+	url = https://github.com/google/android-classyshark
+[submodule "r8"]
+	path = r8
+	url = https://github.com/demon-xxi/r8
+[submodule "redex"]
+	path = redex
+	url = https://github.com/facebook/redex
+[submodule "saam"]
+	path = saam
+	url = https://github.com/mikusjelly/saam
+[submodule "apktool"]
+	path = apktool
+	url = https://bitbucket.org/iBotPeaches/apktool/
