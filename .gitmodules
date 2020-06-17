@@ -217,9 +217,6 @@
 [submodule "house"]
 	path = house
 	url = https://github.com/nccgroup/house
-[submodule "jadx"]
-	path = jadx
-	url = https://github.com/skylot/jadx
 [submodule "Recaf"]
 	path = Recaf
 	url = https://github.com/Col-E/Recaf
