@@ -292,3 +292,21 @@
 [submodule "apktool"]
 	path = apktool
 	url = https://bitbucket.org/iBotPeaches/apktool/
+[submodule "ApkPure"]
+	path = ApkPure
+	url = https://github.com/dyseo/ApkPure
+[submodule "uber-apk-signer"]
+	path = uber-apk-signer
+	url = https://github.com/patrickfav/uber-apk-signer
+[submodule "apk-mitm"]
+	path = apk-mitm
+	url = https://github.com/shroudedcode/apk-mitm
+[submodule "Andromeda"]
+	path = Andromeda
+	url = https://github.com/secrary/Andromeda
+[submodule "dexcalibur"]
+	path = dexcalibur
+	url = https://github.com/FrenchYeti/dexcalibur
+[submodule "jnitrace"]
+	path = jnitrace
+	url = https://github.com/chame1eon/jnitrace
