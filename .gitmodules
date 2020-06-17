@@ -307,3 +307,6 @@
 [submodule "jnitrace"]
 	path = jnitrace
 	url = https://github.com/chame1eon/jnitrace
+[submodule "apbf"]
+	path = apbf
+	url = https://github.com/timvisee/apbf
