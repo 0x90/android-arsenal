@@ -7,9 +7,6 @@
 [submodule "jeb"]
 	path = jeb
 	url = https://github.com/totopamimi/jeb
-[submodule "Android-reverse-tool"]
-	path = Android-reverse-tool
-	url = https://github.com/nanshihui/Android-reverse-tool
 [submodule "misc-code"]
 	path = misc-code
 	url = https://github.com/cryptax/misc-code
