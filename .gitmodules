@@ -142,9 +142,6 @@
 [submodule "DroXES"]
 	path = DroXES
 	url = https://github.com/abhi-r3v0/DroXES
-[submodule "Frida-Module"]
-	path = Frida-Module
-	url = https://github.com/wrlu/Frida-Module
 [submodule "alfred-android-emulator"]
 	path = alfred-android-emulator
 	url = https://github.com/nassendelft/alfred-android-emulator
