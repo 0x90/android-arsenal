@@ -313,3 +313,6 @@
 [submodule "super"]
 	path = super
 	url = https://github.com/SUPERAndroidAnalyzer/super
+[submodule "BootStomp"]
+	path = BootStomp
+	url = https://github.com/ucsb-seclab/BootStomp
