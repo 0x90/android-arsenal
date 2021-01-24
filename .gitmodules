@@ -316,3 +316,21 @@
 [submodule "BootStomp"]
 	path = BootStomp
 	url = https://github.com/ucsb-seclab/BootStomp
+[submodule "Brida"]
+	path = Brida
+	url = https://github.com/federicodotta/Brida
+[submodule "magisk-frida"]
+	path = magisk-frida
+	url = https://github.com/ViRb3/magisk-frida
+[submodule "frida"]
+	path = frida
+	url = https://github.com/frida/frida
+[submodule "FridaLoader"]
+	path = FridaLoader
+	url = https://github.com/dineshshetty/FridaLoader
+[submodule "RMS-Runtime-Mobile-Security"]
+	path = RMS-Runtime-Mobile-Security
+	url = https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security
+[submodule "Brida_Custom_Plugs"]
+	path = Brida_Custom_Plugs
+	url = https://github.com/yearnwang/Brida_Custom_Plugs
